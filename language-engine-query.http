@@ -1,0 +1,6 @@
+@language_engine_query_HostAddress = http://localhost:5280
+
+GET {{language_engine_query_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
